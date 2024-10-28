@@ -1,0 +1,18 @@
+Total lemas léxicos en corpus: 1089
+Total lemas bélicos en corpus: 22.0
+Porcentaje de frecuencia de lemas bélicos en corpus: 2.02%
+
+Total lemas léxicos en TextoPrueba1.txt: 457
+Total lemas bélicos en TextoPrueba1.txt: 9.0
+Porcentaje de frecuencia de lemas bélicos en TextoPrueba1.txt: 1.97%
+
+
+Total lemas léxicos en TextoPrueba2.txt: 614
+Total lemas bélicos en TextoPrueba2.txt: 6.0
+Porcentaje de frecuencia de lemas bélicos en TextoPrueba2.txt: 0.98%
+
+
+Total lemas léxicos en TextoPrueba3.txt: 363
+Total lemas bélicos en TextoPrueba3.txt: 7.0
+Porcentaje de frecuencia de lemas bélicos en TextoPrueba3.txt: 1.93%
+
